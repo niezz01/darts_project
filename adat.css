@@ -85,3 +85,17 @@ p{
 .kiszallo{
     margin-left:50px;
 }
+
+a:hover{
+    color: rgb(216, 0, 0);
+    
+}
+
+a{
+    color: rgb(136, 2, 2);
+    
+}
+
+.center{
+    text-align: center;
+}
