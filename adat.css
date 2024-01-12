@@ -1,0 +1,87 @@
+body{
+    color:black;
+    background-image: linear-gradient(rgba(97, 97, 97, 0.5) 10%, rgba(204, 204, 204, 0.685) 70%), url("hatter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    background-color: rgba(71, 0, 0, 0.39);
+    text-align: center;
+    margin: 25px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+figcaption{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.keret{
+    border-radius: 15px;
+}
+
+.kepkeret {
+    border: 2px, solid, rgb(172, 103, 0);
+    margin-bottom: 10px;
+    text-align: center;
+    overflow: hidden;
+}
+
+.nev{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.fl{
+    float: left;
+}
+
+.tr{
+    text-align: right;
+    margin-right: 40px;
+}
+
+.fr{
+    float:right;
+}
+
+img{
+    margin: 10px;
+}
+
+.szelesseg{
+    width: 450px;
+}
+
+.tm{
+    margin-top: 100px;
+}
+
+li{
+    margin-top: 25px;
+    font-weight: bold;
+    list-style:none;
+}
+
+div{
+    margin-bottom:20px;
+}
+
+p{
+    font-weight: bold;
+    margin-left: 30px;
+    text-align: justify;
+}
+
+.tabla{
+    width:250px;
+}
+
+.kiszallo{
+    margin-left:50px;
+}
