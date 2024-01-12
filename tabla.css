@@ -1,0 +1,76 @@
+body{
+    background-image:linear-gradient(rgba(97, 97, 97, 0.688) 100%, rgba(204,204,204, 0.685) 50% ), url(hatter.jpg);
+    background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     text-align: center  !important;
+     
+     
+    
+
+}
+h1 {
+    color: red !important;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 10px 10px 10px rgb(8, 110, 10);
+    text-align: center;
+    padding: 0px 5px 5px;
+  margin-left: 10px;
+  
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 10px 10px 10px rgb(8, 155, 22); 
+}
+.kep{
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px rgb(6, 118, 23);  
+
+}
+p{
+    font-size: larger;
+    color: rgb(209, 21, 21) !important;
+    font-family:Fantasy;
+    text-shadow: 10px 10px 10px rgb(8, 110, 10);
+    letter-spacing: 2px;
+}
+h2 {
+    color: rgb(14, 199, 17) !important;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 10px 10px 10px rgb(209, 15, 15);
+    font-size: 50px !important;
+    padding: 0px 5px 5px;
+  margin-left: 10px;
+  
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 10px 10px 10px rgba(255, 5, 5, 0.757); 
+}
+.apad{
+    margin: 45px;
+    
+
+}
+.navbar{
+     
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 10px 10px 10px rgba(169, 19, 2, 0.757); 
+
+
+}
+.bruhbruh{
+    font-size: 25px !important;
+
+}
+.kep2{
+    height: 300px;
+    width: 300px;
+    border-radius: 25px;
+    overflow: hidden;
+    box-shadow: 10px 10px 10px rgb(175, 25, 5);
+
+
+}
