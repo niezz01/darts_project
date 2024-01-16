@@ -1,10 +1,9 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image:linear-gradient(rgba(159, 158, 158, 0.688) 100%, rgba(204,204,204, 0.685) 50% ), url(kepek/hatter3.jpg);
-    background-size: cover;
+body{
+    color:black;
+    background-image: linear-gradient(rgba(97, 97, 97, 0.5) 10%, rgba(204, 204, 204, 0.685) 70%), url("kepek/background123.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h1 {
@@ -51,7 +50,9 @@ section {
 }
 
 p{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 18px;
-  color : black
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 30px;
+    text-align: justify;
 }
